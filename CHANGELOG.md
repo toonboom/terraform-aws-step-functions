@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [5.1.0](https://github.com/terraform-aws-modules/terraform-aws-step-functions/compare/v5.0.2...v5.1.0) (2026-01-08)
+
+### Features
+
+* Add provider meta user-agent ([#75](https://github.com/terraform-aws-modules/terraform-aws-step-functions/issues/75)) ([f103a62](https://github.com/terraform-aws-modules/terraform-aws-step-functions/commit/f103a62c86da5cf1a9d0195c2cf615c3c8686b02))
+
 ## [5.0.2](https://github.com/terraform-aws-modules/terraform-aws-step-functions/compare/v5.0.1...v5.0.2) (2025-10-21)
 
 ### Bug Fixes
